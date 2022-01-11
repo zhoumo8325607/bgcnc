@@ -1,0 +1,25 @@
+#reportBox{background-color:#ffffff}
+#reportBox .controlb{color:#fff;font-size:24px;position:absolute;right:10px}
+#reportBox .tb{position: absolute;
+    color: #606266;
+    margin-top: 6px;
+    font-size: 14px;
+    margin-left: 10px;}
+#reportBox.fullscreen{background-color:#202634}
+#reportBox.fullscreen .el-table .cell{line-height: 40px;}
+#reportBox.fullscreen .el-table,#reportBox.fullscreen .el-table--border::after,#reportBox.fullscreen .el-table--group::after,#reportBox.fullscreen .el-table::before{background-color:#202634;/*border-color:#394a73*/;font-size:1.5rem;height:auto!important}
+#reportBox.fullscreen .el-table tr{background-color:#202634!important;border-color:#202634;color:#fff;height:55px}
+#reportBox.fullscreen .el-table th{background-color:#3aa3f9!important;font-size:2rem!important}
+#reportBox.fullscreen .el-table td,#reportBox.fullscreen .el-table th.is-leaf{/*border-bottom-color:#394a73*/font-size:2rem;font-weight: bold;}
+#reportBox.fullscreen .el-table--striped .el-table__body tr.el-table__row--striped td{background-color:#2e364b}
+#reportBox.fullscreen .el-table--border td,#reportBox.fullscreen .el-table--border th,#reportBox.fullscreen .el-table__body-wrapper .el-table--border.is-scrolling-left~.el-table__fixed{/*border-right:none*/}
+#reportBox.fullscreen .form-banner{background-image:url("/flames-web/images/tvBanner.svg");background-size:100% 100px;background-repeat: no-repeat;background-color:transparent;/*color:#2d81c4;*/color:#fff;height:100px;line-height:100px;font-weight: bolder;font-size:2.2rem}
+#reportBox.fullscreen tr.highlight,#reportBox.fullscreen tr.highlight:hover,#reportBox.fullscreen tr.highlight:hover>td{background-color:#67C23A!important;}
+#reportBox.fullscreen tr:hover,#reportBox.fullscreen tr:hover>td{background-color:#3aa3f9!important}
+#reportBox.fullscreen .tb{position: absolute;
+    color: #39a1f6;
+    font-size: 2rem;
+    margin-left: 10px;}
+#reportBox.fullscreen .controlb{margin-top:6px;font-size:2rem}
+#reportBox.fullscreen .el-input__inner{background-color:#3aa3f9;color:#fff;font-size:2rem}
+#reportBox.fullscreen .el-table__body-wrapper{height:auto!important}

@@ -1,0 +1,1008 @@
+{
+    "machineDataList": [
+        {
+            "location": "D-CNC1-36",
+            "useState": "offline",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-29",
+            "useState": "warning",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-22",
+            "useState": "warning",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-15",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-08",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-01",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-37",
+            "useState": "free",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-30",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-23",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-16",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-09",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-02",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-38",
+            "useState": "warning",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-31",
+            "useState": "free",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-24",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-17",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-10",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-03",
+            "useState": "free",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-39",
+            "useState": "warning",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 39,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-32",
+            "useState": "free",
+            "verticalAxis": "28",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-25",
+            "useState": "warning",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-18",
+            "useState": "offline",
+            "verticalAxis": "56",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-11",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-04",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-40",
+            "useState": "offline",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 40,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-33",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-26",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-19",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-12",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-05",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-41",
+            "useState": "offline",
+            "verticalAxis": "14",
+            "horizontalAxis": 41,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-34",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-27",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-20",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-13",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-06",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-42",
+            "useState": "free",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 42,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-35",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-28",
+            "useState": "free",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-21",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-14",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D-CNC1-07",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        }
+    ],
+    "propLifeStateList": [
+        {
+            "name": "状态",
+            "colorByPoint": true,
+            "data": [
+                {
+                    "name": "正常",
+                    "y": 0,
+                    "sliced": true,
+                    "selected": true
+                },
+                {
+                    "name": "寿命预警",
+                    "y": 0
+                },
+                {
+                    "name": "寿命到期",
+                    "y": 0
+                },
+                {
+                    "name": "离线",
+                    "y": 42
+                }
+            ]
+        }
+    ],
+    "clipChangePnChartCategories": [
+        "2021-12-31",
+        "2022-01-01",
+        "2022-01-02"
+    ],
+    "clipList": [
+        "CNC0",
+        "CNC1",
+        "CNC2",
+        "CNC3",
+        "CNC4"
+    ],
+    "clipChangePnChartSeries": [
+        {
+            "name": "CNC0",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CNC1",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CNC2",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CNC3",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CNC4",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ],
+    "clipChangePnFitSeries": [
+        {
+            "name": "达标",
+            "data": [
+                0
+            ]
+        },
+        {
+            "name": "不达标",
+            "data": [
+                0
+            ]
+        }
+    ],
+    "horizontalAxisMax": 42,
+    "verticalAxisMax": 84,
+    "leftBar": [
+        "D"
+    ]
+}

@@ -1,0 +1,89 @@
+/**
+ * @author: zhou.mo
+ * @since : 2021/11/9
+ */
+
+html {
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	vertical-align: baseline;
+}
+
+* {
+	margin: 0;
+	padding: 0
+}
+
+a {
+	text-decoration: none;
+	display: inline-block
+}
+
+.el-container {
+	background-color: #000;
+}
+
+.el-header {
+	height: 10vh!important;
+    line-height: 10vh;
+	text-align: center;
+	color: #fff;
+}
+
+.el-header span {
+	position: absolute;
+    font-size: 20px;
+    line-height: 10vh;
+    left: 94vw;
+    top: 0vh;
+}
+
+.el-main {
+	display: flex;
+    height: 85vh;
+    padding: 0;
+    overflow: hidden;
+}
+
+.el-footer {
+	height: 3vh!important;
+	line-height: 3vh;
+	color: #fff;
+	text-align: center;
+}
+
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+	width: 200px;
+	min-height: 400px;
+	background-color: currentColor;
+}
+
+.el-menu-item {
+	color: white;
+}
+
+.el-menu-item, .el-submenu__title {
+	height: 48px;
+}
+
+.el-menu-item.is-active {
+	color: blue;
+}
+
+.el-menu-item:focus, .el-menu-item:hover {
+	color: #000;
+}
+
+.el-aside {
+	overflow: hidden;
+	width: 200px!important;
+}
+
+.header-logo {
+	width: 60px;
+	position: absolute;
+	left: 10px;
+	top: 8px;
+	color: red;
+}

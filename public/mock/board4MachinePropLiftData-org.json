@@ -1,0 +1,6129 @@
+{
+    "machineDataList": [
+        {
+            "location": "A1-01",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 595,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1834,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-01",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 415,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1734,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-01",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 335,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 589,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-01",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 338,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 768,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-01",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 516,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1790,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-01",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 206,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1178,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-01",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-01",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 1,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-02",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 596,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1358,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-02",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 219,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1147,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-02",
+            "useState": "free",
+            "verticalAxis": "3",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-02",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 252,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2906,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-02",
+            "useState": "holding",
+            "verticalAxis": "5",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 281,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2561,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-02",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 284,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 144,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-02",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-02",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 2,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-03",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 222,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 987,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-03",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 337,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1575,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-03",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 243,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1866,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-03",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 402,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2383,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-03",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 100,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 251,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-03",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 386,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2772,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-03",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-03",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 3,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-04",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 331,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2794,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-04",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 371,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1990,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-04",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 138,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 111,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-04",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 407,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1598,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-04",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 390,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1634,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-04",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 385,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1583,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-04",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-04",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 4,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-05",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 204,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 329,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-05",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 125,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 60,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-05",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 149,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 810,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-05",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 413,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2200,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-05",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 588,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1069,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-05",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 206,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 369,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-05",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-05",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 5,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-06",
+            "useState": "free",
+            "verticalAxis": "1",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-06",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 155,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1733,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-06",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 377,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 626,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-06",
+            "useState": "free",
+            "verticalAxis": "4",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-06",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C2-06",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 247,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1438,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-06",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-06",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 6,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-07",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 158,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1861,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-07",
+            "useState": "holding",
+            "verticalAxis": "2",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 579,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 849,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-07",
+            "useState": "debugging",
+            "verticalAxis": "3",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-07",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 254,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2508,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-07",
+            "useState": "free",
+            "verticalAxis": "5",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C2-07",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 521,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1390,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-07",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-07",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 7,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-08",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 398,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2722,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-08",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 391,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 510,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-08",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 518,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 441,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-08",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 262,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2414,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-08",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 228,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 684,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-08",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 253,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1003,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-08",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-08",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 8,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-09",
+            "useState": "holding",
+            "verticalAxis": "1",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 599,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 845,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-09",
+            "useState": "debugging",
+            "verticalAxis": "2",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 53,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2061,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-09",
+            "useState": "free",
+            "verticalAxis": "3",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 376,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 689,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-09",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 598,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2998,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-09",
+            "useState": "free",
+            "verticalAxis": "5",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 522,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 729,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-09",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 324,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1871,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-09",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-09",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 9,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-10",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 282,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1204,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-10",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 254,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1500,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-10",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 379,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2758,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-10",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 339,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 847,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-10",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 521,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1190,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-10",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 332,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2988,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-10",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-10",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 10,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-11",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 319,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 649,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-11",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 212,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 367,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-11",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 520,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1075,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-11",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 399,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1693,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-11",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 407,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 685,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-11",
+            "useState": "free",
+            "verticalAxis": "6",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 412,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2020,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-11",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-11",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 11,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-12",
+            "useState": "holding",
+            "verticalAxis": "1",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 392,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 772,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-12",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 385,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 472,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-12",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 448,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1318,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-12",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 253,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1857,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-12",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 413,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1563,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-12",
+            "useState": "debugging",
+            "verticalAxis": "6",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 590,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2187,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-12",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-12",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 12,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-13",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 85,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 41,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-13",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 211,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 797,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-13",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 520,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1265,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-13",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 383,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 189,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-13",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 324,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 207,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-13",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 321,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1300,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-13",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-13",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 13,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-14",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 68,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1069,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-14",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 207,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1923,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-14",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 599,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 730,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-14",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 335,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1147,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-14",
+            "useState": "debugging",
+            "verticalAxis": "5",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 590,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1496,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-14",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 373,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1091,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-14",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-14",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 14,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-15",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 47,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1243,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-15",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 340,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 417,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-15",
+            "useState": "free",
+            "verticalAxis": "3",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 103,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 756,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-15",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 395,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 669,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-15",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 378,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 463,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-15",
+            "useState": "debugging",
+            "verticalAxis": "6",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 591,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 678,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-15",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 598,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1544,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-15",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 15,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-16",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 310,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 122,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-16",
+            "useState": "offline",
+            "verticalAxis": "2",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-16",
+            "useState": "offline",
+            "verticalAxis": "3",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-16",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 332,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1791,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-16",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 405,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 935,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-16",
+            "useState": "free",
+            "verticalAxis": "6",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D1-16",
+            "useState": "holding",
+            "verticalAxis": "7",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 269,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1499,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-16",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 16,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-17",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 271,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1189,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-17",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 50,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 202,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-17",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 246,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 496,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-17",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 525,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1372,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-17",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 309,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1098,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-17",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 539,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 749,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-17",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 598,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 871,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-17",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 17,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-18",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 329,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 627,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-18",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 77,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1648,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-18",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 181,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 134,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-18",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 409,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1679,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-18",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 512,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1097,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-18",
+            "useState": "free",
+            "verticalAxis": "6",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 304,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 2172,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-18",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 327,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 210,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-18",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 18,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-19",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 406,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 831,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-19",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 109,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 910,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-19",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 495,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 915,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-19",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 518,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1578,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-19",
+            "useState": "free",
+            "verticalAxis": "5",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 521,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2921,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-19",
+            "useState": "free",
+            "verticalAxis": "6",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 508,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 541,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-19",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 329,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 528,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-19",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 19,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-20",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 159,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 277,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-20",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 79,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 74,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-20",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 239,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2992,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-20",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 436,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2554,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-20",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 528,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1247,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-20",
+            "useState": "free",
+            "verticalAxis": "6",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 272,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1876,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-20",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 351,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1162,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-20",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 20,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-21",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 478,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1624,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-21",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 462,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2862,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-21",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 252,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 166,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-21",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 429,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 667,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-21",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 98,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1336,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-21",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 537,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 590,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-21",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 523,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1254,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-21",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 21,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-22",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 301,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1381,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-22",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 272,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 83,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-22",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 142,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1074,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-22",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 202,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1029,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-22",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 247,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1123,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-22",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 256,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2511,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-22",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 526,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1318,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-22",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 22,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-23",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 345,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2993,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-23",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 340,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2255,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-23",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 429,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1487,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-23",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 423,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1041,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-23",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 152,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 304,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-23",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 537,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1445,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-23",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-23",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 23,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-24",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 431,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1218,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-24",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 453,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1687,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-24",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 246,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1347,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-24",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 256,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 583,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-24",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 91,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 270,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-24",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 135,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1005,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-24",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 242,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1330,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-24",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 24,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-25",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 113,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 220,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-25",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 153,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 530,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-25",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 172,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1043,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-25",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 419,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2992,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-25",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 382,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1568,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-25",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 573,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 681,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-25",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 218,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T04",
+                    "surplusLife": 1656,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-25",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 25,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-26",
+            "useState": "offline",
+            "verticalAxis": "1",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-26",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 100,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1911,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-26",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 248,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1060,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-26",
+            "useState": "offline",
+            "verticalAxis": "4",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-26",
+            "useState": "free",
+            "verticalAxis": "5",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C2-26",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 377,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1153,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-26",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-26",
+            "useState": "offline",
+            "verticalAxis": "8",
+            "horizontalAxis": 26,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-27",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 424,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 834,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-27",
+            "useState": "holding",
+            "verticalAxis": "2",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 343,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 563,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-27",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 366,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 897,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-27",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 511,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 811,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-27",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 406,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 446,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-27",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 237,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1875,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-27",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-27",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 27,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-28",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 121,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2523,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-28",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 462,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1816,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-28",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 506,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1328,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-28",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 266,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1329,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-28",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 155,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 320,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-28",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 93,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1365,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-28",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-28",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 28,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-29",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 591,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2617,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-29",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 591,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 681,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-29",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 462,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1220,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-29",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 485,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2886,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-29",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 248,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1858,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-29",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 239,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1171,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-29",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-29",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 29,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 483,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1867,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-30",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 270,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 2018,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-30",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 591,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 577,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-30",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T03",
+                    "surplusLife": 284,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 354,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-30",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 554,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1340,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-30",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 323,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1105,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-30",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 373,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1072,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-30",
+            "useState": "offline",
+            "verticalAxis": "7",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D2-30",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 30,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 403,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1199,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-31",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 438,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 236,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-31",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 439,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1346,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-31",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 316,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1534,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-31",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 312,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1934,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-31",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 519,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 613,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-31",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 439,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1076,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-31",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 293,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 785,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-31",
+            "useState": "free",
+            "verticalAxis": "8",
+            "horizontalAxis": 31,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A1-32",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 439,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1239,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-32",
+            "useState": "running",
+            "verticalAxis": "2",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 587,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1668,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B1-32",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 381,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1240,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-32",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 315,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2628,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-32",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 408,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1208,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-32",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 245,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 818,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-32",
+            "useState": "free",
+            "verticalAxis": "7",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 335,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1683,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-32",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 32,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 532,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1150,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-33",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 80,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 280,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-33",
+            "useState": "debugging",
+            "verticalAxis": "2",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-33",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 268,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2995,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-33",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 320,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1086,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-33",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 428,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1410,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-33",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 125,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2054,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-33",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 419,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1932,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-33",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 33,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 321,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1639,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-34",
+            "useState": "running",
+            "verticalAxis": "1",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 113,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1422,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A2-34",
+            "useState": "debugging",
+            "verticalAxis": "2",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-34",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 420,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1043,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "B2-34",
+            "useState": "running",
+            "verticalAxis": "4",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 257,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 967,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C1-34",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 287,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1916,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-34",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 182,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1389,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-34",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 466,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 913,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-34",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 34,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 406,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 2172,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-35",
+            "useState": "offline",
+            "verticalAxis": "1",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-35",
+            "useState": "free",
+            "verticalAxis": "2",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-35",
+            "useState": "free",
+            "verticalAxis": "3",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-35",
+            "useState": "offline",
+            "verticalAxis": "4",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-35",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 548,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1484,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-35",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 553,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 1803,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-35",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 306,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 49,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-35",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 35,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 388,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 422,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-36",
+            "useState": "offline",
+            "verticalAxis": "1",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-36",
+            "useState": "offline",
+            "verticalAxis": "2",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-36",
+            "useState": "offline",
+            "verticalAxis": "3",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-36",
+            "useState": "offline",
+            "verticalAxis": "4",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-36",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 547,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1652,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-36",
+            "useState": "offline",
+            "verticalAxis": "6",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "D1-36",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 458,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1230,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D2-36",
+            "useState": "running",
+            "verticalAxis": "8",
+            "horizontalAxis": 36,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 216,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 605,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-37",
+            "useState": "offline",
+            "verticalAxis": "1",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-37",
+            "useState": "offline",
+            "verticalAxis": "2",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-37",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-37",
+            "useState": "offline",
+            "verticalAxis": "4",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-37",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 389,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1169,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-37",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 311,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1581,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-37",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 37,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 66,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 905,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "A1-38",
+            "useState": "offline",
+            "verticalAxis": "1",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "A2-38",
+            "useState": "debugging",
+            "verticalAxis": "2",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B1-38",
+            "useState": "running",
+            "verticalAxis": "3",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "B2-38",
+            "useState": "offline",
+            "verticalAxis": "4",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                },
+                {
+                    "name": "",
+                    "surplusLife": "",
+                    "state": "",
+                    "color": "#BDBDBD"
+                }
+            ]
+        },
+        {
+            "location": "C1-38",
+            "useState": "running",
+            "verticalAxis": "5",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 533,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1682,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "C2-38",
+            "useState": "running",
+            "verticalAxis": "6",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 233,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T10",
+                    "surplusLife": 791,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        },
+        {
+            "location": "D1-38",
+            "useState": "running",
+            "verticalAxis": "7",
+            "horizontalAxis": 38,
+            "propLife": [
+                {
+                    "name": "T02",
+                    "surplusLife": 271,
+                    "state": 1,
+                    "color": "#81F781"
+                },
+                {
+                    "name": "T03",
+                    "surplusLife": 1771,
+                    "state": 1,
+                    "color": "#81F781"
+                }
+            ]
+        }
+    ],
+    "propLifeStateList": [
+        {
+            "name": "状态",
+            "colorByPoint": true,
+            "data": [
+                {
+                    "name": "正常",
+                    "y": 222,
+                    "sliced": true,
+                    "selected": true
+                },
+                {
+                    "name": "寿命预警",
+                    "y": 0
+                },
+                {
+                    "name": "寿命到期",
+                    "y": 0
+                },
+                {
+                    "name": "离线",
+                    "y": 80
+                }
+            ]
+        }
+    ],
+    "clipChangePnChartCategories": [
+        "2021-12-22",
+        "2021-12-23",
+        "2021-12-24"
+    ],
+    "clipList": [
+        "CNC1"
+    ],
+    "clipChangePnChartSeries": [
+        {
+            "name": "CNC1",
+            "series": [
+                {
+                    "name": "早班",
+                    "data": [
+                        44,
+                        49,
+                        45
+                    ]
+                },
+                {
+                    "name": "晚班",
+                    "data": [
+                        52,
+                        67,
+                        120
+                    ]
+                }
+            ]
+        }
+    ],
+    "clipChangePnFitSeries": [
+        {
+            "name": "达标",
+            "data": [
+                2
+            ]
+        },
+        {
+            "name": "不达标",
+            "data": [
+                43
+            ]
+        }
+    ],
+    "needTopBar": true,
+    "needLeftBar": true,
+    "horizontalAxisMax": 38,
+    "verticalAxisMax": 8,
+    "leftBar": [
+        "A1",
+        "A2",
+        "B1",
+        "B2",
+        "C1",
+        "C2",
+        "D1",
+        "D2"
+    ]
+}

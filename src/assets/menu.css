@@ -1,0 +1,38 @@
+.logo-bg{background-color:rgb(0,33,64)}
+.asidebg{background-color:rgb(0,21,41);color:rgba(255,255,255,0.65)}
+.asidebg .el-menu{background-color:rgb(0,21,41);color:rgba(255,255,255,0.65);border:none}
+.asidebg .el-submenu .el-menu>div{padding-left:10px;border-bottom: 1px dotted #303133;}
+.asidebg .el-submenu ul.el-menu:before{display: block;content:"";
+    position: absolute;
+    z-index: 1;
+    left: 30px;
+    top: 0;
+    bottom: 0;
+    border: 1px dotted;
+    border-width: 0 0 0 1px;}
+.asidebg .el-menu--inline .el-submenu ul.el-menu:before{
+  left: 40px;
+}
+.el-submenu li.el-menu-item:before,.el-submenu li.el-submenu:before{
+    content:"";
+    width: 10px;
+    position: absolute;
+    z-index: 1;
+    left: 20px;
+    top: 20px;
+    border: 1px dotted;
+    border-width: 1px 0 0;
+}
+li.el-submenu{position:relative}
+.el-menu--inline .el-submenu li.el-menu-item:before{left:40px}
+.el-menu--vertical .el-submenu li.el-menu-item:before{display:none}
+.el-menu--vertical .el-menu{background-color:rgb(0,21,41);}
+.el-menu--vertical .el-menu-item,.el-menu--vertical .el-menu-item a,.el-menu--vertical .el-submenu__title{color:rgba(255,255,255,0.65);}
+.asidebg .el-menu-item,.asidebg .el-submenu__title,.asidebg .el-menu-item a{color:rgba(255,255,255,0.65)}
+.asidebg .el-menu-item:focus, .el-menu-item:hover, .el-menu-item.is-active,.el-menu--vertical .el-submenu__title:hover{background-color:rgb(45,140,240);color:#fff}
+.asidebg .el-submenu__title:hover{background-color:rgb(45,140,240);color:#fff}
+.asidebg .el-select input{height: 32px;
+    line-height: 32px;
+    background-color: rgb(40,57,74);
+    color:rgba(255,255,255,0.65)
+}

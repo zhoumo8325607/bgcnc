@@ -1,0 +1,547 @@
+{
+    "machineDataList": [
+        {
+            "location": "D-CNC1-36",
+            "useState": "offline",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 36,
+            "no": "36",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-29",
+            "useState": "warning",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 29,
+            "no": "29",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#F5A9A9"
+        },
+        {
+            "location": "D-CNC1-22",
+            "useState": "warning",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 22,
+            "no": "22",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#F5A9A9"
+        },
+        {
+            "location": "D-CNC1-15",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 15,
+            "no": "15",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-08",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 8,
+            "no": "08",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-01",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 1,
+            "no": "01",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-37",
+            "useState": "free",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 37,
+            "no": "37",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-30",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 30,
+            "no": "30",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-23",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 23,
+            "no": "23",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-16",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 16,
+            "no": "16",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-09",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 9,
+            "no": "09",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-02",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 2,
+            "no": "02",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-38",
+            "useState": "warning",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 38,
+            "no": "38",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#F5A9A9"
+        },
+        {
+            "location": "D-CNC1-31",
+            "useState": "free",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 31,
+            "no": "31",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-24",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 24,
+            "no": "24",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-17",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 17,
+            "no": "17",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-10",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 10,
+            "no": "10",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-03",
+            "useState": "free",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 3,
+            "no": "03",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-39",
+            "useState": "warning",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 39,
+            "no": "39",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#F5A9A9"
+        },
+        {
+            "location": "D-CNC1-32",
+            "useState": "free",
+            "verticalAxis": "28",
+            "horizontalAxis": 32,
+            "no": "32",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-25",
+            "useState": "warning",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 25,
+            "no": "25",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#F5A9A9"
+        },
+        {
+            "location": "D-CNC1-18",
+            "useState": "offline",
+            "verticalAxis": "56",
+            "horizontalAxis": 18,
+            "no": "18",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-11",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 11,
+            "no": "11",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-04",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 4,
+            "no": "04",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-40",
+            "useState": "offline",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 40,
+            "no": "40",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-33",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 33,
+            "no": "33",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-26",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 26,
+            "no": "26",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-19",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 19,
+            "no": "19",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-12",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 12,
+            "no": "12",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-05",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 5,
+            "no": "05",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-41",
+            "useState": "offline",
+            "verticalAxis": "14",
+            "horizontalAxis": 41,
+            "no": "41",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-34",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 34,
+            "no": "34",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-27",
+            "useState": "offline",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 27,
+            "no": "27",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-20",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 20,
+            "no": "20",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-13",
+            "useState": "offline",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 13,
+            "no": "13",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-06",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 6,
+            "no": "06",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-42",
+            "useState": "free",
+            "verticalAxis": "14.0",
+            "horizontalAxis": 42,
+            "no": "42",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-35",
+            "useState": "offline",
+            "verticalAxis": "28.0",
+            "horizontalAxis": 35,
+            "no": "35",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-28",
+            "useState": "free",
+            "verticalAxis": "42.0",
+            "horizontalAxis": 28,
+            "no": "28",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-21",
+            "useState": "offline",
+            "verticalAxis": "56.0",
+            "horizontalAxis": 21,
+            "no": "21",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        },
+        {
+            "location": "D-CNC1-14",
+            "useState": "free",
+            "verticalAxis": "70.0",
+            "horizontalAxis": 14,
+            "no": "14",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#FFFF00"
+        },
+        {
+            "location": "D-CNC1-07",
+            "useState": "offline",
+            "verticalAxis": "84.0",
+            "horizontalAxis": 7,
+            "no": "07",
+            "outputActualQty": 0,
+            "outputPlaneQty": 92,
+            "textColor": "#FF0000",
+            "bgColor": "#BDBDBD"
+        }
+    ],
+    "machineStateList": [
+        {
+            "name": "状态",
+            "colorByPoint": true,
+            "data": [
+                {
+                    "name": "正常",
+                    "y": 0,
+                    "sliced": true,
+                    "selected": true
+                },
+                {
+                    "name": "待机",
+                    "y": 9
+                },
+                {
+                    "name": "调机",
+                    "y": 5
+                },
+                {
+                    "name": "离线",
+                    "y": 28
+                }
+            ]
+        }
+    ],
+    "colChart1Categories": [
+        "2021-12-27",
+        "2021-12-28",
+        "2021-12-29",
+        "2021-12-30",
+        "2021-12-31",
+        "2022-01-01",
+        "2022-01-02"
+    ],
+    "colChart1Series": [
+        {
+            "name": "CNC1实际",
+            "data": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "pointPadding": 0.45,
+            "pointPlacement": 0.1
+        },
+        {
+            "name": "CNC1计划",
+            "data": [
+                652,
+                326,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "pointPadding": 0.45,
+            "pointPlacement": 0.1
+        }
+    ],
+    "colChart2Categories": [],
+    "colChart2Series": [
+        {
+            "name": "达标",
+            "data": []
+        },
+        {
+            "name": "不达标",
+            "data": []
+        }
+    ],
+    "horizontalAxisMax": 42,
+    "verticalAxisMax": 84,
+    "leftBar": [
+        "D"
+    ]
+}
